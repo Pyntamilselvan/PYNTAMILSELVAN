@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm [PYNTAMILSELVAN N]
 
-<!--
-**Pyntamilselvan/PYNTAMILSELVAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student | Aspiring VLSI & Hardware Engineer  
+💡 Learning Verilog, Digital Design, FPGA & Python  
+📚 Sharing my learning journey and projects here!
 
-Here are some ideas to get you started:
+## 🌱 Learning Goals
+- Digital Logic Design
+- Verilog HDL
+- FPGA Basics
+- Python for Automation
+- ASIC Flow and VLSI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Weekly Log
+Check my [Gists](https://gist.github.com/) for daily notes & projects.
+
+📫 Contact: [your email or LinkedIn here]
